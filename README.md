@@ -1,7 +1,5 @@
 # Keagan's Notes
-# This is an H1
-## Does 
-### It 
-#### Get 
-##### Smaller
-###### Always?
+
+## Summary
+
+This is going to be full of the notes [Keagan](https://github.com/Ibirn) gleaned from his time at the <strong>[Lighthouse Labs](https://www.lighthouselabs.ca/)</strong>  bootcampfor Web Development.
